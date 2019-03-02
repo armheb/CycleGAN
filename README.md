@@ -1,2 +1,2 @@
 # CycleGAN
-This repository contains experiments with CycleGANs
+This repository contains experiments with CycleGANs.
